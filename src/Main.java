@@ -23,7 +23,7 @@ public class Main {
         for (int i : array) {
             sum += i;
         }
-        System.out.println("Сумма трат за месяц составила " + sum);
+        System.out.println("Сумма трат зa месяц составила " + sum);
     }
 
     public static void task2() {
